@@ -35,7 +35,7 @@ class AvAKingEngine:
         self.key_states = {"h": False, "k": False, "/": False, "+": False, "s": False, "u": False}
         
         # POPRAWIONA SKALA NA 1.7 - Wielki potężny szef!
-        self.scale = 1.7
+        self.scale = 2.0
         self.x = self.screen_width // 2
         self.y = self.taskbar_floor
         self.vx = 0
