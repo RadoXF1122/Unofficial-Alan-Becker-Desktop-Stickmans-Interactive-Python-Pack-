@@ -42,7 +42,7 @@ class AvAMemeIconEngine:
 
         self.key_states = {"'": False, "j": False, "s": False, "u": False}
         
-        self.scale = 1.6
+        self.scale = 1.9
         self.x = self.screen_width // 4
         self.y = self.taskbar_floor
         self.vx, self.vy, self.gravity, self.bounce_friction = 0, 0, 0.65, 0.5
