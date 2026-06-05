@@ -31,7 +31,7 @@ class AvAGreenEngine:
         self.canvas.bind("<ButtonRelease-1>", lambda e: self.set_state("FALLING_RELEASE"))
 
         self.key_states = {"y": False, "s": False, "u": False}
-        self.scale, self.x, self.y = 1.4, self.screen_width // 2, self.taskbar_floor
+        self.scale, self.x, self.y = 1.8, self.screen_width // 2, self.taskbar_floor
         self.vx, self.vy, self.gravity, self.bounce_friction = 0, 0, 0.65, 0.5
         self.state, self.anim_time, self.has_phone, self.trip_timer = "WANDER", 0, False, 0
         self.walk_direction = 1  
