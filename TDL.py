@@ -34,7 +34,7 @@ class AvATDLEngine:
 
         self.key_states = {"x": False, "c": False, "v": False, "9": False, "`": False, "-": False, "s": False, "u": False}
         
-        self.scale = 1.5
+        self.scale = 1.9
         self.x = self.screen_width // 2
         self.y = self.taskbar_floor
         self.vx = 0
