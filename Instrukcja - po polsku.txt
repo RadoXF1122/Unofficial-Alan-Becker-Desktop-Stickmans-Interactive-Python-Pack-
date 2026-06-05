@@ -1,0 +1,144 @@
+===============================================================================
+         ALAN BECKER STICK FIGURES UNOFFICIAL PACK - OFFICIAL KEYBOARD GUIDE
+===============================================================================
+Wszystkie postacie działają w stałych 60 FPS i reagują na klawisze globalnie.
+Pliki audio muszą znajdować się w podfolderze "sounds/".
+Przed uruchomieniem wymagana instalacja miksera audio komendą: pip install pygame
+Ta paczka postaci nie została wykonana w programie Shimeji. Została stworzona od zera poprzez samodzielne pisanie kodu w języku Python.
+
+-------------------------------------------------------------------------------
+1. THE SECOND COMING (TSC)
+-------------------------------------------------------------------------------
+* Wygląd:            - Pomarańczowy, pusty w środku stickman o cienkich liniach.
+* Przycisk [ X ]     - Czerwony kwadrat w prawym górnym rogu ekranu monitora. 
+                       Kliknięcie myszką natychmiast wyłącza i zamyka postać.
+* Klawisz [ F ]      - Awakening Mode: Odpala jaskrawozieloną, rwącą się aurę 
+                       błyskawic i wyładowań elektrycznych z odcinka AvA 8.
+* Klawisz [ 1 ]      - Nieskończony Laser: Działa TYLKO w Awakening Mode. TSC 
+  (Trzymaj)            zastyga nieruchomo i strzela zielonym promieniem z oczu, 
+                       który przecina monitor do samych krawędzi bez limitu 
+                       zasięgu (5000px). Generuje głośne audio z sounds/laser.wav. 
+                       Każda inna postać, która DOTKNIE linii promienia, zostaje 
+                       natychmiast wymazana i usunięta z ekranu!
+* Klawisz [ 2 ]      - Autonomiczne AI Latania: Działa TYLKO w Awakening Mode. 
+                       TSC unika grawitacji i całkowicie SAMODZIELNIE dryfuje, 
+                       lewituje i orbituje po całym ekranie (ignoruje myszkę).
+* Klawisz [ 3 ]      - Tryb Widza / Kibica: TSC zmniejsza się do skali 1.1, leci 
+                       w prawy dolny róg ekranu i fizycznie SIADA na boku, 
+                       zginając kolana pod kątem 90 stopni, z dwiema nóżkami 
+                       skierowanymi idealnie w LEWĄ STRONĘ, machając rękami.
+
+-------------------------------------------------------------------------------
+2. RED
+-------------------------------------------------------------------------------
+* Klawisz [ G ]      - Monster School Mode: Red zakłada żółtą opaskę z Minecrafta. 
+                       Jego autonomiczne AI zyskuje ogromną prędkość biegu.
+* Klawisz [ Z ]      - Rzut tortem z Minecrafta: Działa w trybie G. Red ciska 
+                       kwadratowym ciastem za Twoją myszką. Po dolocie w punkt 
+                       myszki tort eksploduje i zostawia plamę kremu z wisienkami 
+                       na monitorze przez równe 5 sekund.
+
+-------------------------------------------------------------------------------
+3. GREEN
+-------------------------------------------------------------------------------
+* Klawisz [ Y ]      - Influenced Mode: Green idzie przed siebie zapatrzony 
+                       w smartfon. Po zderzeniu ze ścianą potyka się i upada.
+
+-------------------------------------------------------------------------------
+4. BLUE
+-------------------------------------------------------------------------------
+* Klawisz [ O ]      - Mikstura Szybkości: Blue dostaje ogromną prędkość sprintu 
+                       i zostawia za sobą jasnoniebieskie smugi pędu.
+
+-------------------------------------------------------------------------------
+5. YELLOW
+-------------------------------------------------------------------------------
+* Klawisz [ P ]      - Scripter mode: Yellow idzie z otwartym laptopem, na którym
+                       mruga zielony kod, zatrzymując się losowo na rozmyślania.
+
+-------------------------------------------------------------------------------
+6. THE CHOSEN ONE (TCO)
+-------------------------------------------------------------------------------
+* Klawisz [ T ]      - Tryb Latania: TCO unika grawitacji i lata autonomicznie, 
+                       a z jego dłoni bucha ogień w dół.
+* Klawisz [ R ]      - Czerwony Laser z Oczu: Strzela potężnym, nielimitowanym 
+  (Trzymaj)            czerwonym promieniem przez cały monitor w kursor myszy.
+* Klawisz [ L ]      - Strumień Ognia z Rąk: Sieje potężnym ogniem w stronę myszki. 
+  (Trzymaj)            TCO zastyga wtedy w miejscu (Zablokowane podczas lotu).
+
+-------------------------------------------------------------------------------
+7. THE DARK LORD (TDL)
+-------------------------------------------------------------------------------
+* Klawisz [ X ]      - Tryb Ostrzy: Wyciąga wielkie czarne szpony z ramion. Zyskuje 
+                       ogromną prędkość biegu, skoku, a z rąk sypią się iskry.
+* Klawisz [ 9 ]      - Kula Ognia: Wystrzeliwuje z dłoni czerwoną, płonącą 
+                       kulę bezpośrednio w pozycję kursora myszy.
+* Klawisz [ V ]      - X-Slash: TDL robi potężne cięcie i puszcza wielki czerwony 
+                       znak błędu "X" przez cały monitor.
+* Klawisz [ C ]      - Przyzwanie Virabota: Tworzy małego czerwonego cyber-pająka, 
+                       który szaleńczo skacze po ekranie (max 3).
+* Klawisz [ ` ]      - Reset Wirusów: Klawisz tyldy natychmiast usuwa wszystkie 
+                       skaczące Viraboty z pulpitu.
+* Klawisz [ - ]      - Tryb Latania: TDL wznosi się w powietrze i lata samoczynnie 
+                       w aerodynamicznej, pionowej pozycji z opuszczonymi rękami.
+
+-------------------------------------------------------------------------------
+8. VICTIM / H4CK3R
+-------------------------------------------------------------------------------
+* Klawisz [ 6 ]      - H4CK3R Mode: Victim odpala pulsującą neonową 
+                       aurę, cyber-monokl, błękitne pioruny i cząsteczki kodu.
+* Klawisz [ 5 ]      - Lot Hakerski: Działa TYLKO w trybie 6. Victim unika 
+                       grawitacji i lata autonomicznie po Twoim ekranie.
+* Klawisz [ M ]      - Hacker Cage: Tworzy wielką, neonową klatkę 180x180 pod myszką, 
+                       w której KURSOR MYSZY zostaje uwięziony na równe 15 sekund!
+* Klawisz [ N ]      - Usunięcie Klatek: Natychmiast niszczy wszystkie klatki 
+                       i przedwcześnie uwalnia Twój kursor myszki.
+* Klawisz [ B ]      - Mouse Hijack: Przez 3 sekundy kursor myszy na ekranie zaczyna 
+                       losowo szarpać i uciekać pod wpływem kodu błędu.
+
+-------------------------------------------------------------------------------
+9. KING ORANGE
+-------------------------------------------------------------------------------
+* Wygląd:            - Postać o rozmiarze 1.7. Domyślnie chodzi jako czysty stickman.
+* Klawisz [ H ]      - King Mode (Transformacja): Przywołuje potęgę kostek! Zyskuje 
+                       złotą koronę, cieniowany kostur z blokiem trawy i pełną 
+                       ODPORNOŚĆ na wymazujący laser TSC (1).
+* Klawisz [ K ]      - Biały Promień ze Staffa: Działa TYLKO w trybie H. Strzela 
+  (Trzymaj)            potężnym, jaskrawobiałym stożkiem, wewnątrz którego szaleją 
+                       błękitne błyskawice i prądy elektryczne.
+* Klawisz [ / ]      - Pasek Obsydianu: Działa TYLKO w trybie H. Stawia pionowy, 
+                       gruby blok obsydianu na 5 sekund, blokując ruchy innych.
+* Klawisz [ = ]      - Królewskie Latanie: Działa TYLKO w trybie H. Król unika 
+                       grawitacji i majestatycznie lewituje nad oknami.
+
+-------------------------------------------------------------------------------
+10. HAZARD
+-------------------------------------------------------------------------------
+* Wygląd:            - Postać o rozmiarze 1.6 z wysokim, podłużnym tułowiem 
+                       i jasnoszarą obwódką 1:1 z przesłanego piktogramu.
+* Klawisz [ ' ]      - Przełącznik Ruchu: Włącza lub wyłącza sztywny, memiczny chód.
+* Klawisz [ J ]      - EKSPLOZJA ATOMOWA: Odpala precyzyjną oś czasu real-time:
+                       1. Przez równe 5.0 sekund Hazard trzyma bombę nad łbem, 
+                          a z podfolderu sounds/alarm.wav odtwarza się głośna 
+                          syrena alarmowa ustawiona na bezpieczny poziom audio 5.0.
+                       2. W ułamku sekundy uderzenia bomby o ziemię odpala się 
+                          potężna eksplozja sounds/boom.wav (głośność 5.0), dymny 
+                          napis BOOM! zasłania ekran i wywołuje taskkill, natychmiast 
+                          czyszcząc RAM i wymazując resztę stickmanów. Sylwetka 
+                          Hazarda wyparowuje z ekranu monitora.
+                       3. Pomarańczowa powłoka trwa na pustym ekranie przez 18.0 
+                          sekund, po czym przez kolejne 3.0 sekundy łagodnie 
+                          wygasza dym i program bezpiecznie się wyłącza.
+
+===============================================================================
+                             INTERAKCJE GLOBALNE
+===============================================================================
+* Klawisz [ S ]      - Najedź myszką na górną belkę dowolnej aplikacji (np. Robloxa, 
+                       Discorda) lub ikonę i wciśnij S, aby stworzyć tam stabilną 
+                       podłogę dla wszystkich chodzących stickmanów.
+* Klawisz [ U ]      - Resetuje i usuwa z pamięci wszystkie stworzone platformy S.
+* UWAGA FOCUSU       - Jeśli stickman nie reaguje na klawisze, kliknij na niego raz 
+                       lewym przyciskiem myszy (LPM), aby Windows przywrócił mu focus.
+===============================================================================
+
+Nie jest to dokładne ale się starałem😀
