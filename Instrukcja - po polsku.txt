@@ -141,4 +141,6 @@ Ta paczka postaci nie została wykonana w programie Shimeji. Została stworzona 
                        lewym przyciskiem myszy (LPM), aby Windows przywrócił mu focus.
 ===============================================================================
 
+🚨Ostrzeżenie(bardzo ważne) Jeżeli masz słaby komputer (ziemniaka), nie używaj atomówki Hazarda pod klawiszem J. Istnieje duża szansa, że zwiesi Ci się komputer!)
+
 Nie jest to dokładne ale się starałem😀
