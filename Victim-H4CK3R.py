@@ -34,7 +34,7 @@ class AvAVictimEngine:
 
         self.key_states = {"6": False, "5": False, "m": False, "n": False, "b": False, "s": False, "u": False}
         
-        self.scale = 1.5
+        self.scale = 1.9
         self.x = self.screen_width // 2
         self.y = self.taskbar_floor
         self.vx, self.vy, self.gravity, self.bounce_friction = 0, 0, 0.65, 0.5
