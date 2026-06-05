@@ -93,7 +93,7 @@ Ta paczka postaci nie została wykonana w programie Shimeji. Została stworzona 
                        w której KURSOR MYSZY zostaje uwięziony na równe 15 sekund!
 * Klawisz [ N ]      - Usunięcie Klatek: Natychmiast niszczy wszystkie klatki 
                        i przedwcześnie uwalnia Twój kursor myszki.
-* Klawisz [ B ]      - Mouse Hijack: Przez 3 sekundy kursor myszy na ekranie zaczyna 
+* Klawisz [ B ]      - Mouse Hack: Przez 3 sekundy kursor myszy na ekranie zaczyna 
                        losowo szarpać i uciekać pod wpływem kodu błędu.
 
 -------------------------------------------------------------------------------
