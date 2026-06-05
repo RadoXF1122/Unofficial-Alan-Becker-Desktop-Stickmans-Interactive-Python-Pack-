@@ -39,7 +39,7 @@ class AvATSCEngine:
 
         self.key_states = {"f": False, "1": False, "2": False, "3": False, "s": False, "u": False}
         
-        self.base_scale = 1.5
+        self.base_scale = 1.9
         self.scale = self.base_scale
         self.x = self.screen_width // 2
         self.y = self.taskbar_floor
