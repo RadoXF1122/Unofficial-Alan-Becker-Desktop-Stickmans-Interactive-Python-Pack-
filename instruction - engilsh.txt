@@ -1,0 +1,110 @@
+===============================================================================
+       UNOFFICIAL ALAN BECKER DESKTOP STICKMANS – INTERACTIVE PYTHON PACK
+===============================================================================
+
+⚠️ IMPORTANT REQUIREMENTS:
+This project requires Python and the Pygame library to run and play audio.
+To install the required mixer, open CMD and run: pip install pygame
+
+🚨 POTATO PC WARNING:
+If you have a weak computer (a potato PC), DO NOT use Hazard's nuke (J key). 
+There is a high chance it will freeze your computer!
+*(Jeżeli masz słaby komputer (ziemniaka), nie używaj atomówki Hazarda, 
+ponieważ istnieje szansa, że zwiesi Ci się komputer!)*
+
+-------------------------------------------------------------------------------
+CHARACTER SCALE & SIZES
+-------------------------------------------------------------------------------
+* King Orange                   - Scale 2.0 (The largest, powerful ruler)
+* TCO, TSC, TDL, Victim         - Scale 1.9 (The elite powerhouse group)
+* Red, Green, Blue, Yellow      - Scale 1.8 (The classic friends pack)
+
+-------------------------------------------------------------------------------
+KEYBOARD GUIDE & CONTROLS
+-------------------------------------------------------------------------------
+
+1. THE SECOND COMING (TSC)
+* Button [ X ]  - Red square in top-right corner. Click to close the program.
+* Key [ F ]     - Awakening Mode: Triggers bright green lightning aura (AvA 8).
+* Key [ 1 ]     - Infinite Laser (Hold in Awakening): Shoots a screen-splitting 
+                  green beam from eyes with no range limit. Wipes out any other 
+                  stickman upon contact! Plays sounds/laser.wav.
+* Key [ 2 ]     - Autonomous AI Flight (In Awakening): TSC hovers and drifts 
+                  completely on his own, ignoring the mouse cursor.
+* Key [ 3 ]     - Fan Mode: TSC shrinks to 1.1 scale, sits on the taskbar with 
+                  both legs pointed perfectly to the LEFT, and waves his hands.
+
+2. RED
+* Key [ G ]     - Monster School Mode: Red puts on the yellow headband and runs 
+                  at extreme autonomous speed.
+* Key [ Z ]     - Cake Throw (In G mode): Throws a square Minecraft cake at your 
+                  mouse cursor. Explodes into cream for exactly 5 seconds.
+
+3. GREEN
+* Key [ Y ]     - Influenced Mode: Green walks forward while staring into his 
+                  smartphone. Trips and falls after hitting a wall.
+
+4. BLUE
+* Key [ O ]     - Speed Potion: Blue gains insane sprint speed and leaves 
+                  bright blue trails of momentum behind him.
+
+5. YELLOW
+* Key [ P ]     - Scripter Mode: Yellow walks around with an open laptop showing 
+                  flashing green code, stopping randomly to think.
+
+6. THE CHOSEN ONE (TCO)
+* Key [ T ]     - Flight Mode: TCO evades gravity and flies autonomously with 
+                  fire blasting downwards from his hands.
+* Key [ R ]     - Red Eye Laser (Hold): Shoots an unlimited red laser beam 
+                  across the entire screen towards the mouse cursor.
+* Key [ L ]     - Fire Stream (Hold): Blasts a stream of fire from his hands. 
+                  Freezes TCO in place (Locked during flight).
+
+7. THE DARK LORD (TDL)
+* Key [ X ]     - Blade Mode: Deploys black blades from arms. Gains extreme 
+                  running speed and jumps around the screen like a wild spring!
+* Key [ 9 ]     - Fireball: Launches a burning fireball straight at your mouse.
+* Key [ V ]     - X-Slash: Executes a slash releasing a giant red "X" error mark.
+* Key [ C ]     - Summon Virabot: Spawns a small jumping cyber-spider (max 3).
+* Key [ ` ]     - Virus Reset: Instantly deletes all active Virabots.
+* Key [ - ]     - Flight Mode: Rises and flies autonomously in a vertical pose.
+
+8. VICTIM / H4CK3R
+* Key [ 6 ]     - H4CK3R Mode: Victim triggers a pulsing neon aura, cyber-monocle, 
+                  and floating code particles.
+* Key [ 5 ]     - Hacker Flight (In mode 6): Flies autonomously across the screen.
+* Key [ M ]     - Hacker Cage: Spawns a neon cage trapping the MOUSE CURSOR for 15s.
+* Key [ N ]     - Remove Cages: Instanks destroys all cages to free your mouse.
+* Key [ B ]     - Mouse Hack: Randomly jerks your mouse cursor around for 3s.
+
+9. KING ORANGE
+* Key [ H ]     - King Mode: Gains a golden crown, a grass-block staff, and full 
+                  IMMUNITY to TSC's wiping eye laser (1).
+* Key [ K ]     - White Staff Beam (Hold in H mode): Shoots a powerful white cone 
+                  with raging cyan electrical currents.
+* Key [ / ]     - Obsidian Strip (In H mode): Places a thick obsidian block 
+                  for 5 seconds to block other stickmen.
+* Key [ = ]     - Royal Flight (In H mode): Majestically hovers over windows.
+
+10. HAZARD
+* Key [ ' ]     - Movement Toggle: Enables or disables his stiff, memic walk.
+* Key [ J ]     - NUKER EXPLOSION: Hazard holds the nuke for a 5-second countdown 
+                  with a loud proximity siren (sounds/alarm.wav at safe 5.0 volume). 
+                  Upon impact, it plays sounds/boom.wav (volume 5.0) and instantly 
+                  wipes all other stickmen from RAM (taskkill), leaving an orange 
+                  overlay that safely fades away after 22 seconds.
+
+-------------------------------------------------------------------------------
+GLOBAL INTERACTIONS (HACKING PLATFORMS)
+-------------------------------------------------------------------------------
+* Key [ S ]     - Hover mouse over any application bar or icon and press S to 
+                  create a solid invisible platform for stickmen to walk on.
+* Key [ U ]     - Resets and clears all created S platforms from memory.
+* FOCUS NOTE    - If a stickman stops responding to keys, click him once with the 
+                  Left Mouse Button (LMB) to restore focus.
+
+===============================================================================
+This character pack was not made in the Shimeji program. It was built completely from scratch by writing code in Python.
+
+⚠️ Disclaimer: This is an UNOFFICIAL, non-commercial, fan-made project. All rights to the characters and universe belong to Alan Becker.
+===============================================================================
