@@ -35,7 +35,7 @@ class AvAYellowEngine:
         self.canvas.bind("<ButtonRelease-1>", self.on_release)
 
         self.key_states = {"p": False, "s": False, "u": False}
-        self.scale = 1.4
+        self.scale = 1.8
         self.x = self.screen_width // 5
         self.y = self.taskbar_floor
         self.vx = 0
