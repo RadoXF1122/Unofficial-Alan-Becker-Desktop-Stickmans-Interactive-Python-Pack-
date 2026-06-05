@@ -35,7 +35,7 @@ class AvARedEngine:
         # Klawisze globalne: G (0x47), Z (0x5A), S (0x53), U (0x55)
         self.key_states = {"g": False, "z": False, "s": False, "u": False}
         
-        self.scale = 1.5
+        self.scale = 1.8
         self.x = self.screen_width // 4
         self.y = self.taskbar_floor
         self.vx = 0
