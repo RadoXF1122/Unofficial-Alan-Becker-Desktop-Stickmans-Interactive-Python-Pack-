@@ -34,7 +34,7 @@ class AvATCOEngine:
 
         self.key_states = {"t": False, "r": False, "l": False, "s": False, "u": False}
         
-        self.scale = 1.5
+        self.scale = 1.9
         self.x = self.screen_width // 3
         self.y = self.taskbar_floor
         self.vx = 0
