@@ -140,5 +140,5 @@ GLOBAL INTERACTIONS (HACKING PLATFORMS)
 This character pack was not made in the Shimeji program. It was built completely from scratch by writing code in Python.
 
 ⚠️ Disclaimer: This is an UNOFFICIAL, non-commercial, fan-made project. All rights to the characters and universe belong to Alan Becker.
-⚠️If you have a weak computer (a potato PC), DO NOT use Hazard nuclear blast
+⚠️Warning(veri important) If you have a weak computer (a potato PC), DO NOT use Hazard nuclear blast
 ===============================================================================
